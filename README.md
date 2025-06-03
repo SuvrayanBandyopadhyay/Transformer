@@ -1,5 +1,5 @@
 # Transformer
-A simplea and easy to understand transformer implementation using PyTorch
+A simple and easy to understand transformer implementation using PyTorch
 
 ## Library Features 
 The library currently contains the following classes 
